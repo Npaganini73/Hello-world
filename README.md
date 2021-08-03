@@ -3,4 +3,6 @@ My first repository
 
 Hello guys!
 
-Júlio here, I like Python, data science and machine learning.
+My name is Júlio.
+I'm like Python and I'm interesded in machine learning.
+And I'm learning data science.
